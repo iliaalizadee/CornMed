@@ -1,3 +1,3 @@
 # CornMed
 
-A CNN model used to classify deffective corns
+A CNN model used to classify defective corns
